@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Displays coffee and brewing status",
-    "repository": "https://github.com/pengstrom/elm-gym-rankings.git",
+    "repository": "https://git.moebius.nu/perengstrom/elm-coffee",
     "license": "GPL3",
     "source-directories": [
         "src"
