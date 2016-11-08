@@ -1,0 +1,51 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #F9F2D5;
+}
+
+.center {
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cups-high {
+    color: #3B9C40;
+}
+
+.cups-low {
+    color: #FF9800;
+}
+
+.cups-empty {
+    color: #C52613;
+}
+
+.cups-error {
+    color: #6C7A89;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+
+}
