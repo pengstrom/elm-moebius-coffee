@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "summary": "Displays coffee status",
+    "summary": "Displays coffee and brewing status",
     "repository": "https://github.com/pengstrom/elm-gym-rankings.git",
     "license": "GPL3",
     "source-directories": [
