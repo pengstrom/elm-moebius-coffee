@@ -1,12 +1,12 @@
 {
-  "name": "elm-webpack-starter",
-  "description": "Webpack setup for writing Elm apps",
-  "version": "0.6.2",
-  "license": "MIT",
-  "author": "Peter Morawiec",
+  "name": "Coffee info",
+  "description": "Display coffee and brewing info",
+  "version": "1.0.0",
+  "license": "GPL3",
+  "author": "Per Engstrom",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moarwick/elm-webpack-starter"
+    "url": "https://git.moebius.nu/perengstrom/elm-coffee"
   },
   "scripts": {
     "start": "webpack-dev-server --hot --inline --content-base src/",
